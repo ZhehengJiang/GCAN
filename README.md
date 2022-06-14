@@ -17,9 +17,13 @@ This is a PyTorch implementation of our paper: [Graph-context Attention Networks
 
 ## Experiment:
 Run training and evaluation on Pascal VOC Keypoint for Size-equal graph matching problem:
+
 ``python train_eval.py --cfg ./experiments/GCAN_voc.yaml``
+
 Run training and evaluation on Pascal VOC Keypoint for Size-equal graph matching problem:
+
 ``python train_eval.py --cfg ./experiments/GCAN_voc_varied_size.yaml``
+
 Unsupervised training code is coming soon
 
 
