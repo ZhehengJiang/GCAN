@@ -20,7 +20,7 @@ Run training and evaluation on Pascal VOC Keypoint for Size-equal graph matching
 
 ``python train_eval.py --cfg ./experiments/GCAN_voc.yaml``
 
-Run training and evaluation on Pascal VOC Keypoint for Size-equal graph matching problem:
+Run training and evaluation on Pascal VOC Keypoint for Size-varied graph matching problem:
 
 ``python train_eval.py --cfg ./experiments/GCAN_voc_varied_size.yaml``
 
